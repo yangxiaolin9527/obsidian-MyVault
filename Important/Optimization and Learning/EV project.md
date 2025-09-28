@@ -74,7 +74,4 @@ $$
 		self.x = np.random.uniform(0, 4, T)
 		```
 		进行随机初始化时，Algorithm 1的loss比Xiuxian的低，结果图相较于Xiuxian的也更符合实际
-		![[Pasted image 20241204172931.png]]
-		![[Pasted image 20241204172944.png]]
-	
 
