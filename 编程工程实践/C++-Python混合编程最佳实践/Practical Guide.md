@@ -176,8 +176,6 @@ sudo apt install clangd
 		"C_Cpp.intelliSenseEngine": "disabled", 
 		// (可选但推荐) 指定 clangd 的路径，通常apt安装后会自动找到 
 		// "clangd.path": "/usr/bin/clangd", 
-		// 让 clangd 在后台分析时使用更多的线程，加快分析速度 
-		"clangd.arguments": ["--compile-threads=4"] 
 	}
 	```
 
